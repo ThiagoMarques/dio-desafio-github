@@ -1,2 +1,8 @@
-# dio-desafio-github
-Desafio de projeto sobre Github / Primeiro repositório
+# Desafio GitHub
+
+Esse repositório é um exemplo para demonstrar conhecimento em GitHub.
+
+## SObre o Projeto
+
+Você pode clonar esse projeto para contribuir com informações
+
